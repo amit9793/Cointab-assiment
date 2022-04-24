@@ -1,0 +1,186 @@
+{
+  "customer_pincode": [
+    {
+      "id": 2,
+      "c_pincode": 507101,
+      "c_zone": "d"
+    },
+    {
+      "id": 3,
+      "c_pincode": 486886,
+      "c_zone": "d"
+    },
+    {
+      "id": 4,
+      "c_pincode": 532484,
+      "c_zone": "d"
+    },
+    {
+      "id": 5,
+      "c_pincode": 143001,
+      "c_zone": "b"
+    },
+    {
+      "id": 6,
+      "c_pincode": 515591,
+      "c_zone": "d"
+    },
+    {
+      "id": 7,
+      "c_pincode": 326502,
+      "c_zone": "d"
+    },
+    {
+      "id": 8,
+      "c_pincode": 208019,
+      "c_zone": "b"
+    },
+    {
+      "id": 9,
+      "c_pincode": 140301,
+      "c_zone": "b"
+    },
+    {
+      "id": 10,
+      "c_pincode": 396001,
+      "c_zone": "d"
+    },
+    {
+      "id": 11,
+      "c_pincode": 711106,
+      "c_zone": "d"
+    },
+    {
+      "id": 12,
+      "c_pincode": 284001,
+      "c_zone": "b"
+    },
+    {
+      "id": 13,
+      "c_pincode": 441601,
+      "c_zone": "d"
+    },
+    {
+      "id": 14,
+      "c_pincode": 248006,
+      "c_zone": "b"
+    },
+    {
+      "id": 15,
+      "c_pincode": 485001,
+      "c_zone": "d"
+    },
+    {
+      "id": 16,
+      "c_pincode": 845438,
+      "c_zone": "d"
+    },
+    {
+      "id": 17,
+      "c_pincode": 463106,
+      "c_zone": "d"
+    },
+    {
+      "id": 18,
+      "c_pincode": 140301,
+      "c_zone": "b"
+    },
+    {
+      "id": 19,
+      "c_pincode": 495671,
+      "c_zone": "d"
+    },
+    {
+      "id": 20,
+      "c_pincode": 673002,
+      "c_zone": "e"
+    },
+    {
+      "id": 21,
+      "c_pincode": 208002,
+      "c_zone": "b"
+    },
+    {
+      "id": 22,
+      "c_pincode": 416010,
+      "c_zone": "d"
+    },
+    {
+      "id": 23,
+      "c_pincode": 226010,
+      "c_zone": "b"
+    },
+    {
+      "id": 24,
+      "c_pincode": 400705,
+      "c_zone": "d"
+    },
+    {
+      "id": 25,
+      "c_pincode": 262405,
+      "c_zone": "b"
+    },
+    {
+      "id": 26,
+      "c_pincode": 394210,
+      "c_zone": "d"
+    },
+    {
+      "id": 27,
+      "c_pincode": 411014,
+      "c_zone": "d"
+    },
+    {
+      "id": 28,
+      "c_pincode": 783301,
+      "c_zone": "e"
+    },
+    {
+      "id": 29,
+      "c_pincode": 486661,
+      "c_zone": "d"
+    },
+    {
+      "id": 30,
+      "c_pincode": 244001,
+      "c_zone": "b"
+    }
+  ],
+  "company_data": [
+    {
+      "id": 2,
+      "rate_type": "Forward",
+      "company_zone": "a",
+      "firstkg": 29.5,
+      "additional": 23.6
+    },
+    {
+      "id": 3,
+      "rate_type": "Forward",
+      "company_zone": "b",
+      "firstkg": 33,
+      "additional": 28.3
+    },
+    {
+      "id": 4,
+      "rate_type": "Forward",
+      "company_zone": "c",
+      "firstkg": 40.1,
+      "additional": 38.9
+    },
+    {
+      "id": 5,
+      "rate_type": "Forward",
+      "company_zone": "d",
+      "firstkg": 45.4,
+      "additional": 44.8
+    },
+    {
+      "id": 6,
+      "rate_type": "Forward",
+      "company_zone": "e",
+      "firstkg": 56.6,
+      "additional": 55.5
+    }
+  ]
+}
